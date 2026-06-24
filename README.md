@@ -36,7 +36,7 @@ sudo apt install python3-tk
 Running it
 
 ```bash
-python discord_tool.py
+python main.py
 ```
 
 (Use whatever you named the file.)
